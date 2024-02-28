@@ -1,5 +1,10 @@
-### Hi there 👋
+![Navy Geometric Technology LinkedIn Banner](https://github.com/parnian-yousefi/parnian-yousefi/assets/53624218/6da721d7-4256-4a79-aee0-eede62eb5f0f)
+![2](https://github.com/parnian-yousefi/parnian-yousefi/assets/53624218/b42dab02-ed8f-4ac7-931c-153e6b55b434)
+![3](https://github.com/parnian-yousefi/parnian-yousefi/assets/53624218/4457d002-ad6c-4c2c-be3a-affec134d418)
+![4](https://github.com/parnian-yousefi/parnian-yousefi/assets/53624218/cc573476-865d-4ef1-914f-a2459adc41c9)
 
+
+### Hi there 👋
 <!--
 **parnian-yousefi/parnian-yousefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
